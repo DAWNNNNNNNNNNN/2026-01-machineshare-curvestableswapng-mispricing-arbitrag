@@ -1,0 +1,12 @@
+{
+  "address": "0x32e616f4f17d43f9a5cd9be0e294727187064cb3",
+  "chain_id": 1,
+  "contract_name": "CurveStableSwapNG",
+  "compiler": "vyper:0.3.10",
+  "optimization": "0",
+  "runs": "0",
+  "evm_version": "Default",
+  "license": "None",
+  "proxy": "0",
+  "implementation": ""
+}
